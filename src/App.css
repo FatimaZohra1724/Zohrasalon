@@ -294,10 +294,15 @@ section p {
   padding: 0.65rem 0.8rem;
   border-radius: 10px;
   border: 1px solid var(--color-border-soft);
-  color: var(--color-text);
+  color: var(--color-text);        /* text uses theme color */
+  background-color: #ffffff;       /* fixed light background */
   font-family: inherit;
   font-size: 0.95rem;
 }
+:root[data-theme='light'] .contact-form textarea {
+  background-color: #f3e9ff;
+}
+
 
 .contact-form input:focus,
 .contact-form textarea:focus {
