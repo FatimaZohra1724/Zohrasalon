@@ -67,15 +67,6 @@ h4 {
   margin-top: 0;
   font-family:'Playfair Display', 'Times New Roman', serif; ;
 }
-textarea {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-.dark textarea {
-  background-color: #1f2933;
-  color: #f9fafb;
-}
 
 
 /* Buttons – base style, specific colors in App.css if needed */
