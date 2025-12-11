@@ -299,8 +299,9 @@ section p {
   font-family: inherit;
   font-size: 0.95rem;
 }
-:root[data-theme='light'] .contact-form textarea {
-  background-color: #f3e9ff;
+:root[data-theme='dark'] .contact-form textarea {
+  background-color: white;
+  color:black;
 }
 
 
