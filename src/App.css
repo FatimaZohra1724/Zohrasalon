@@ -294,7 +294,8 @@ section p {
   padding: 0.65rem 0.8rem;
   border-radius: 10px;
   border: 1px solid var(--color-border-soft);      /* text uses theme color */
-  background-color: #fff;       /* fixed light background */
+  background-color: #fff;
+  color: #0e0e0f/* fixed light background */
   font-family: inherit;
   font-size: 0.95rem;
 }
