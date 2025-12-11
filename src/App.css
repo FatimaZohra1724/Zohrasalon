@@ -303,6 +303,10 @@ section p {
   background-color: white;
   color:black;
 }
+:root[data-theme='dark'] .contact-form textarea {
+  background-color: white;
+  color:#0e0e0f;
+}
 
 
 .contact-form input:focus,
