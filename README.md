@@ -1,18 +1,118 @@
-# React + Vite
+🌸 Zohrasalon – Modern Makeup & Beauty Salon Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zohrasalon is a beautiful, fast, and responsive single-page salon website built using React and Vite.
+It is designed for makeup artists, beauty salons, and personal branding.
+This project is perfect for your portfolio and can also be used for real clients.
 
-Currently, two official plugins are available:
+👉 Live Website:
+https://fatimazohra1724.github.io/Zohrasalon/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Technologies Used
 
-## React Compiler
+React – For building UI components
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Vite – For fast development and build
 
-Note: This will impact Vite dev & build performances.
+JavaScript (ES6)
 
-## Expanding the ESLint configuration
+HTML5 & CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive Web Design
+
+✨ Website Features
+
+Clean and modern design
+
+Smooth scrolling single page
+
+Beautiful hero section
+
+Services section (Makeup, Hair, Skin, etc.)
+
+Gallery to show beauty work
+
+Contact/booking section
+
+Works on mobile, tablet, and desktop
+
+Fast performance using Vite
+
+📸 Screenshots
+
+(You can add your images to a folder named “screenshots” in your project)
+
+./screenshots/home.png
+./screenshots/services.png
+./screenshots/gallery.png
+
+📁 Folder Structure
+Zohrasalon/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│── index.html
+│── package.json
+│── vite.config.js
+│── README.md
+
+⚙️ How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/FatimaZohra1724/Zohrasalon.git
+
+
+Go inside the project folder
+
+cd Zohrasalon
+
+
+Install all packages
+
+npm install
+
+
+Start the development server
+
+npm run dev
+
+🚀 Build for Production
+
+To create the production build:
+
+npm run build
+
+
+This will generate a dist/ folder which you can deploy on GitHub Pages.
+
+🎯 Project Purpose
+
+I created this project to:
+
+Improve my React and frontend development skills
+
+Build a real, professional-quality salon website
+
+Add a strong project to my portfolio
+
+Practice responsive design
+
+Deploy a live website with GitHub Pages
+
+👩‍💻 Author
+
+Fatima Zohra
+Frontend Developer
+
+GitHub: https://github.com/FatimaZohra1724
+
+LinkedIn: https://www.linkedin.com/in/fatimazohra1724
+
+⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub.
+It helps me grow and create more amazing projects!
+
