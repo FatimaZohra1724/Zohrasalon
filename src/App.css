@@ -286,6 +286,7 @@ section p {
   flex-direction: column;
   gap: 0.4rem;
   font-size: 0.95rem;
+  color: var(-color-text-soft);
 }
 
 .contact-form input,
