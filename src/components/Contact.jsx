@@ -88,13 +88,10 @@ export class Contact extends Component {
                 name="message"
                 rows="4"
                 placeholder="Tell us about the service you want"
-                 style={{
-                  backgroundColor: '#1f2933',  // dark background
-                  color: '#f9fafb',            // light text
-                  border: '1px solid #4b5563',
-                  padding: '10px',
-                  borderRadius: '10px'
-                }}
+                style={{
+               backgroundColor: '#1f2933',
+               color: '#f9fafb'
+               }}
               />
             </label>
 
