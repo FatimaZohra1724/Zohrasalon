@@ -299,14 +299,6 @@ section p {
   font-family: inherit;
   font-size: 0.95rem;
 }
-:root[data-theme='light'] .contact-form textarea {
-  background-color: white;
-  color:black;
-}
-:root[data-theme='dark'] .contact-form textarea {
-  background-color: white;
-  color:#0e0e0f;
-}
 
 
 .contact-form input:focus,
