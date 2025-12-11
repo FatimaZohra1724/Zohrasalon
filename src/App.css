@@ -295,7 +295,7 @@ section p {
   border-radius: 10px;
   border: 1px solid var(--color-border-soft);
   color: var(--color-text);        /* text uses theme color */
-  background-color: #ffffff;       /* fixed light background */
+  background-color: black;       /* fixed light background */
   font-family: inherit;
   font-size: 0.95rem;
 }
